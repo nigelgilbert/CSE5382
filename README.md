@@ -1,7 +1,6 @@
-"# SMU-CSE5382" 
+### Nigel Gilbert's SMU CSE5382 Project Submission
 
-Some notes:
-This project should be built for x64 (64-bit). 32-bit builds will require different versions of GLFW. There is no reason to build 32-bit.
-
-Under OSX, keep your library paths in mind when merging. If you experience linker errors after merging or cloning, make sure that your library paths are set correctly (project options | build phases | link with binaries | libglfw*)
-
+##### Video demo:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=McIFXyuGdao
+" target="_blank"><img src="http://img.youtube.com/vi/McIFXyuGdao/0.jpg" 
+alt="Video Demo link." width="240" height="180" border="10" /></a>
